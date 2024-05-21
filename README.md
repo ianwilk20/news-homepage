@@ -15,7 +15,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -37,7 +36,7 @@ Mobile:
 
 ### Links
 
-- [Live Site URL]()
+- [Live Site URL](https://news-homepage-ianwilk20.netlify.app/design/)
 
 ## My process
 
